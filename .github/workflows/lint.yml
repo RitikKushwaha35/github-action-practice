@@ -1,0 +1,5 @@
+name: Auto Linter
+
+on:
+  push:
+    paths: 
